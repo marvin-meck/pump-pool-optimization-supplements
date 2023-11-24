@@ -1,0 +1,10 @@
+set Elements := A B C D E F G;
+set Sets := 1 2 3 4 5;
+
+set FeasibleSets[A] := 1;
+set FeasibleSets[B] := 1 2 3 4;
+set FeasibleSets[C] := 1 2;
+set FeasibleSets[D] := 3;
+set FeasibleSets[E] := 3 4 5;
+set FeasibleSets[F] := 2 4 5;
+set FeasibleSets[G] := 5;

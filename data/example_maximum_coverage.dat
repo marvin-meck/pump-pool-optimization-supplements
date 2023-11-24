@@ -1,0 +1,2 @@
+include "./data/example_set_cover.dat";
+param max_num_sets := 2;

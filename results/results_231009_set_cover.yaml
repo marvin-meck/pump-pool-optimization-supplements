@@ -1,0 +1,152 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: x1
+  Lower bound: 54.0
+  Upper bound: 54.0
+  Number of objectives: 1
+  Number of constraints: 3268
+  Number of variables: 68
+  Number of binary variables: 68
+  Number of integer variables: 68
+  Number of continuous variables: 0
+  Number of nonzeros: 5608
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Return code: 0
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Termination condition: optimal
+  Termination message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Wall time: 0.006999969482421875
+  Error rc: 0
+  Time: 0.42559003829956055
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: optimal
+  Message: Model was solved to optimality (subject to tolerances), and an optimal solution is available.
+  Objective:
+    cardinality:
+      Value: 54
+  Variable:
+    set_is_selected[R01]:
+      Value: 1
+    set_is_selected[R02]:
+      Value: 1
+    set_is_selected[R04]:
+      Value: 1
+    set_is_selected[R05]:
+      Value: 1
+    set_is_selected[R06]:
+      Value: 1
+    set_is_selected[R07]:
+      Value: 1
+    set_is_selected[R08]:
+      Value: 1
+    set_is_selected[R09]:
+      Value: 1
+    set_is_selected[R10]:
+      Value: 1
+    set_is_selected[R11]:
+      Value: 1
+    set_is_selected[R12]:
+      Value: 1
+    set_is_selected[R13]:
+      Value: 1
+    set_is_selected[R14]:
+      Value: 1
+    set_is_selected[R17]:
+      Value: 1
+    set_is_selected[R18]:
+      Value: 1
+    set_is_selected[R19]:
+      Value: 1
+    set_is_selected[R20]:
+      Value: 1
+    set_is_selected[R22]:
+      Value: 1
+    set_is_selected[R23]:
+      Value: 1
+    set_is_selected[R27]:
+      Value: 1
+    set_is_selected[R28]:
+      Value: 1
+    set_is_selected[R29]:
+      Value: 1
+    set_is_selected[R30]:
+      Value: 1
+    set_is_selected[R31]:
+      Value: 1
+    set_is_selected[R32]:
+      Value: 1
+    set_is_selected[R33]:
+      Value: 1
+    set_is_selected[R34]:
+      Value: 1
+    set_is_selected[R35]:
+      Value: 1
+    set_is_selected[R36]:
+      Value: 1
+    set_is_selected[R37]:
+      Value: 1
+    set_is_selected[R38]:
+      Value: 1
+    set_is_selected[R39]:
+      Value: 1
+    set_is_selected[R40]:
+      Value: 1
+    set_is_selected[R43]:
+      Value: 1
+    set_is_selected[R44]:
+      Value: 1
+    set_is_selected[R45]:
+      Value: 1
+    set_is_selected[R46]:
+      Value: 1
+    set_is_selected[R47]:
+      Value: 1
+    set_is_selected[R48]:
+      Value: 1
+    set_is_selected[R49]:
+      Value: 1
+    set_is_selected[R51]:
+      Value: 1
+    set_is_selected[R52]:
+      Value: 1
+    set_is_selected[R53]:
+      Value: 1
+    set_is_selected[R54]:
+      Value: 1
+    set_is_selected[R55]:
+      Value: 1
+    set_is_selected[R56]:
+      Value: 1
+    set_is_selected[R57]:
+      Value: 1
+    set_is_selected[R58]:
+      Value: 1
+    set_is_selected[R59]:
+      Value: 1
+    set_is_selected[R62]:
+      Value: 1
+    set_is_selected[R63]:
+      Value: 1
+    set_is_selected[R65]:
+      Value: 1
+    set_is_selected[R66]:
+      Value: 1
+    set_is_selected[R67]:
+      Value: 1
+  Constraint: No values

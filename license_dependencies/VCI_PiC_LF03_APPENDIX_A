@@ -1,0 +1,26 @@
+Anhang A -- Ermittlung der Baugröße durch DIN EN ISO 2858 Baugrößenkennfelder
+------------------------------------------------------------------------------
+
+Um den baugrößen- und drehzahlspezifischen hydraulischen Nutzungsbereich von DIN EN ISO 2858 Chemienormpumpen zu begrenzen, können die in der Norm vorgegebenen Nennleistungs-punkte (QISO, HISO) dazu genutzt werden, baugrößen- und drehzahlspezifische Kennfelder zu definieren. 
+
+Die Eckpunkte dieser Kennfelder sind so gesetzt, dass die hydraulische Nutzung einer konkreten Baugröße auf einen sinnvollen Bereich um den Normnennleistungspunkt herum begrenzt wird. 
+Der rechte obere Eckpunkt wird bestimmt aus der jeweiligen Grenz-Durchflussmenge (siehe Ka-pitel 2.3.) und der zugehörigen Normnennförderhöhe. 
+
+Unter Berücksichtigung dieser Randbedingungen ist ein Excel-Berechnungsblatt erstellt worden, das bei Eingabe eines Auslegungspunktes (Q in m³/h und H in mFs) automatisch ermittelt, welche Normbaugrößen für den Auslegungspunkt eingesetzt werden können. 
+Dieses Excel-Berechnungsblatt ist für die allgemeine Nutzung freigegeben, sodass jeder Anwender es kostenfrei nutzen kann, der derart die Baugrößenauswahl der Hersteller für einen gegebenen Anwendungsfall „steuern“ will. 
+
+Es ist zu empfehlen, in der Anfrage oder in den einer Anfrage beigefügten technischen Vorgaben die Pumpenhersteller darauf hinzuweisen, die Vorgaben aus dem Excel-Berechnungsblatt bei ihrer Baugrößenauswahl zu berücksichtigen. 
+Bei Anwendung dieses Excel-Berechnungsblattes ist sichergestellt, dass alle Pumpenhersteller für einen Anwendungsfall die gleiche Baugröße anbieten und somit die Angebote direkt vergleichbar sind. 
+
+Falls in Einzelfällen, wegen zusätzlicher technischer Randbedingungen (wie z.B. niedrige NPSHA-Werte) keine geeigneten Baugrößen unter Berücksichtigung der vorgegebenen Kennfeldgrenzen gefunden werden, dann können, entgegen der Vorgabe des Excel-Berechnungsblattes, die linken Grenzen der Kennfelder bis zu den herstellerspezifisch zulässigen baugrößen- und drehzahlabhängigen Mindestmengen für Dauerbetrieb verschoben werden.
+
+Rechtliche Hinweise
+-------------------
+
+Dieser Leitfaden entbindet in keinem Fall von der Verpflichtung zur Beachtung der gesetzlichen Vorschriften. 
+Der Leitfaden wurde mit großer Sorgfalt erstellt. 
+Dennoch übernehmen die Verfasser und der Verband der Chemischen Industrie e.V. (VCI) keine Haftung für die Richtigkeit der Angaben, Hinweise, Ratschläge sowie für eventuelle Druckfehler.
+Aus etwaigen Folgen können deswegen keine Ansprüche weder gegen die Verfasser noch gegen den Verband der Chemischen Industrie e.V. geltend gemacht werden.
+
+Das Urheberrecht dieses Leitfadens liegt beim VCI. 
+Die vollständige und auszugsweise Verbreitung des Textes ist nur gestattet, wenn Titel und Urheber genannt werden.
